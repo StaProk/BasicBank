@@ -1,0 +1,6 @@
+@BBAPI_HostAddress = http://localhost:5077
+
+GET {{BBAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
