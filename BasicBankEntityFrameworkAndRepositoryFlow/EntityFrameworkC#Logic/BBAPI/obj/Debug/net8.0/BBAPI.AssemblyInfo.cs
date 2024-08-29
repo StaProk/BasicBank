@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BBAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ab64f78294637971a8cf800bad44a46d4027324a")]
 [assembly: System.Reflection.AssemblyProductAttribute("BBAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BBAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

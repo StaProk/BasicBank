@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "grtgmKdsjkSfRBZhNNf4uqtcG/q5Tp6aP3KAR5irfKc42biJKfYhvcwBHLa3HFljfIsuTXqVz0EQMviSPMY7aA==",
+  "dgSpecHash": "Hf9AEHzDKk/Npb9v5TVl8uIsS8PPo7rcHJX4iuN7qjvJqAUPQZHwCw3x5yJP4OMUmDvcFzC4ITqrRLLpcA8sVw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PROKO\\BasicBank\\BasicBankEntityFrameworkAndRepositoryFlow\\EntityFrameworkC#Logic\\BBAPI\\BBAPI.csproj",
+  "projectFilePath": "C:\\Users\\PROKO\\test\\BasicBank\\BasicBankEntityFrameworkAndRepositoryFlow\\EntityFrameworkC#Logic\\BBAPI\\BBAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PROKO\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\PROKO\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",

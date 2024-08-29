@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PROKO\\BasicBank\\BasicBankEntityFrameworkAndRepositoryFlow\\EntityFrameworkC#Logic\\BBAPI\\BBAPI.csproj": {}
+    "C:\\Users\\PROKO\\test\\BasicBank\\BasicBankEntityFrameworkAndRepositoryFlow\\EntityFrameworkC#Logic\\BBAPI\\BBAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PROKO\\BasicBank\\BasicBankEntityFrameworkAndRepositoryFlow\\EntityFrameworkC#Logic\\BBAPI\\BBAPI.csproj": {
+    "C:\\Users\\PROKO\\test\\BasicBank\\BasicBankEntityFrameworkAndRepositoryFlow\\EntityFrameworkC#Logic\\BBAPI\\BBAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PROKO\\BasicBank\\BasicBankEntityFrameworkAndRepositoryFlow\\EntityFrameworkC#Logic\\BBAPI\\BBAPI.csproj",
+        "projectUniqueName": "C:\\Users\\PROKO\\test\\BasicBank\\BasicBankEntityFrameworkAndRepositoryFlow\\EntityFrameworkC#Logic\\BBAPI\\BBAPI.csproj",
         "projectName": "BBAPI",
-        "projectPath": "C:\\Users\\PROKO\\BasicBank\\BasicBankEntityFrameworkAndRepositoryFlow\\EntityFrameworkC#Logic\\BBAPI\\BBAPI.csproj",
+        "projectPath": "C:\\Users\\PROKO\\test\\BasicBank\\BasicBankEntityFrameworkAndRepositoryFlow\\EntityFrameworkC#Logic\\BBAPI\\BBAPI.csproj",
         "packagesPath": "C:\\Users\\PROKO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PROKO\\BasicBank\\BasicBankEntityFrameworkAndRepositoryFlow\\EntityFrameworkC#Logic\\BBAPI\\obj\\",
+        "outputPath": "C:\\Users\\PROKO\\test\\BasicBank\\BasicBankEntityFrameworkAndRepositoryFlow\\EntityFrameworkC#Logic\\BBAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PROKO\\AppData\\Roaming\\NuGet\\NuGet.Config"
